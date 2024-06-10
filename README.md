@@ -46,61 +46,62 @@ This project is a React-based CRUD (Create, Read, Update, Delete) application ai
 2. Create some random data in your mock API user interface.
 
    API ENDPOINT URL :
-   https://6662187f63e6a0189fecb7ce.mockapi.io/
 
+   https://6666d3eaa2f8516ff7a51f0f.mockapi.io/
    
-  ![image](https://github.com/evyatarevi/React-CRUD-Mini-Project/assets/126551023/c8571f25-5fab-4099-be66-1ff277f7dc02)
-
-
+   
+![image](https://github.com/evyatarevi/React-CRUD-Mini-Project/assets/126551023/def64d71-4653-424f-8c47-c60f85883fbd)
 
  The Users info:
 
 [
   {
-    "name": "Shaun Jerde",
-    "userName": "Virginia_Weimann",
-    "password": "oK8BX7QadP5aoi9",
-    "todo": "stables",
-    "done": "vainly",
+    "name": "Anne Wunsch",
+    "userName": "Edmund79",
+    "password": "gTlfhv3lN0m303l",
+    "todo": [],
+    "done": [],
     "id": "1"
   },
   {
-    "name": "Terrell Bode",
-    "userName": "Ralph57",
-    "password": "xdqdhPx6ZJQlW_f",
-    "todo": "interface",
-    "done": "Shoes",
+    "name": "Pete Johnston",
+    "userName": "Emilia57",
+    "password": "QgDKDmE9wiytuxu",
+    "todo": [],
+    "done": [],
     "id": "2"
   },
   {
-    "name": "Ms. Karl Schoen",
-    "userName": "Reanna51",
-    "password": "ya1nDS_nqbbaxX2",
-    "todo": "embrace",
-    "done": "second",
+    "name": "Herman Koch",
+    "userName": "Maximillian_Tromp",
+    "password": "rKP9sRR2QUSEYlz",
+    "todo": [],
+    "done": [],
     "id": "3"
   },
   {
-    "name": "Faye Mraz",
-    "userName": "Stan.OKon",
-    "password": "kO9JVBY0mx8umJm",
-    "todo": "Managed",
-    "done": "Berkshire",
+    "name": "Louis Dare",
+    "userName": "Mohamed_Anderson",
+    "password": "ceJzlce3zzteDTX",
+    "todo": [],
+    "done": [],
     "id": "4"
   },
   {
-    "name": "Inez Mayer",
-    "userName": "Henry_Schmidt18",
-    "password": "5GzoKDI8_GDffC1",
-    "todo": "methodologies",
-    "done": "Compatible",
+    "name": "Veronica Hermiston",
+    "userName": "Cynthia.Moen",
+    "password": "Z4BcLwpF6wKqOii",
+    "todo": [],
+    "done": [],
     "id": "5"
   }
 ]
 
-![image](https://github.com/evyatarevi/React-CRUD-Mini-Project/assets/126551023/0a93bc41-5f3b-40c4-bb09-d219e62629b2)
+![image](https://github.com/evyatarevi/React-CRUD-Mini-Project/assets/126551023/c721c1d2-351c-4a3e-9f52-60d71a9dec3c)
 
-![image](https://github.com/evyatarevi/React-CRUD-Mini-Project/assets/126551023/9fce68b5-d3bd-4020-8c47-19dc2daa5d81)
+
+![image](https://github.com/evyatarevi/React-CRUD-Mini-Project/assets/126551023/635401ee-7122-473a-b61c-739b1fdc1df2)
+
 
 
 
